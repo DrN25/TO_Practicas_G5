@@ -37,3 +37,23 @@ int main() {
 
     return 0;
 }
+
+/*
+EJECUCION ESPERADA:
+
+EMPLEADO 1:
+Nombre: Juan Perez
+Edad: 30
+Salario: 50000
+
+EMPLEADO 2:
+Nombre: Ana Gomez
+Edad: 28
+Salario: 60000
+
+EMPLEADO 3:
+Nombre: Luis Martinez
+Edad: 35
+Salario: 70000
+
+*/
